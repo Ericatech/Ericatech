@@ -34,16 +34,12 @@ Em constante aprendizado, adoro explorar como a tecnologia pode transformar a ed
 
 ## 🐍 Cobrinha de Contribuições
 
-![Snake animation](https://github.com/[Ericatech]/[Ericatech]/blob/output/github-contribution-grid-snake.svg)
-
----
+![Snake animation](https://github.com/Ericatech/Ericatech/blob/output/github-contribution-grid-snake.svg?raw=true)---
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[Ericatech]&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[Ericatech]&layout=compact&theme=radical)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ericatech&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericatech&layout=compact&theme=radical)
 ---
 
 ## 📫 Como me encontrar
