@@ -30,11 +30,6 @@ Em constante aprendizado, adoro explorar como a tecnologia pode transformar a ed
 - 💡 Apaixonada por **tecnologia educacional** e **inovação**.
 - 🚀 Buscando unir **educação** e **tecnologia** para criar soluções que transformem vidas.
 
----
-
-## 🐍 Cobrinha de Contribuições
-
-![Snake animation](https://github.com/Ericatech/Ericatech/blob/output/github-contribution-grid-snake.svg?raw=true)---
 
 ## 📊 Estatísticas do GitHub
 
