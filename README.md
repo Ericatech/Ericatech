@@ -1,5 +1,5 @@
 
-# 🚀 Oiii, bem vindos, aqui tem muita dedicação e esforço! 👋
+# 🚀 Oiii, bem vindos 👋
 
 ##   educação e tecnologia = deu mach!
 
