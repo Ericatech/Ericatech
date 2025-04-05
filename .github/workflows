@@ -1,0 +1,38 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gera cobrinha animada 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ericatech
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit da cobrinha
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Atualiza cobrinha [automático]"
+          add: "dist/*.svg"
+
+      - name: Publica no branch output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
