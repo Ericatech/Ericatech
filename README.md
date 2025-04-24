@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Olá, eu sou a Erica Lima!
 
-### 📚 Pedagoga | 💻 Estudante de Sistemas de Informação | 🌟 Assessora Acadêmica
+### 📚 Pedagoga | 💻 Estudante de ADS | 🌟 Assessora Acadêmica
 
 Aqui você encontrará projetos que unem minhas duas paixões: **educação** e **tecnologia**. 
 Em constante aprendizado, adoro explorar como a tecnologia pode transformar a educação e o mundo ao nosso redor.
