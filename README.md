@@ -36,7 +36,7 @@ Em constante aprendizado, adoro explorar como a tecnologia pode transformar a ed
 
 ## 🌱 Sobre Mim
 
-- 🎓 Formada em **Pedagogia** e estudante de **Sistemas de Informação**.
+- 🎓 Formada em **Pedagogia** e estudante de **Análise e Desenvolvimento de Sistemas**.
 - 💡 Apaixonada por **tecnologia** e **educação**.
 - 🚀 Buscando unir **educação** e **tecnologia** para criar soluções que transformem vidas.
 - ☁️ Acredito que conhecimento compartilhado é uma sementinha de transformação. 🌱
